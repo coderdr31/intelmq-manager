@@ -42,3 +42,5 @@ The following example we can see the status information of a single bot. Namely,
 ## Licence
 
 This software is licensed under [GNU Affero General Public License version 3](https://github.com/certtools/intelmq-manager/blob/master/LICENSE)
+
+#
