@@ -1,0 +1,6 @@
+AuthType basic
+AuthName "IntelmMQ Manager"
+
+AuthBasicProvider file
+AuthUserFile /opt/intelmq_pw
+Require user dr
